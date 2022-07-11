@@ -9,10 +9,10 @@
 		<version>2.7.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.zensar</groupId>
-	<artifactId>spring-boot-demo</artifactId>
+	<groupId>com.zensar.</groupId>
+	<artifactId>spring-boot-jenkins-docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-demo</name>
+	<name>spring-boot-jenkins-docker</name>
 	<description>Demo project for Spring Boot</description>
 <!-- 	<packaging>war</packaging> -->
 	<properties>
